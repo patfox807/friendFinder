@@ -29,6 +29,7 @@ var friendsData = [
         photo: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiGtaeQivjhAhVDmeAKHbj9CVEQjRx6BAgBEAU&url=http%3A%2F%2Fen.spongepedia.org%2Findex.php%3Ftitle%3DGary_the_Snail&psig=AOvVaw2kjDSjgpu9VBQtq_AdXRfh&ust=1556722703116284",
         scores: [5, 4, 3, 2, 1, 2, 3, 4, 5, 4]
     }
+]
 
 
-    module.exports = friendsData;
+   module.exports = friendsData;
