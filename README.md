@@ -9,7 +9,7 @@ This full-stack site will take in results from your users' surveys, then compare
 * Express
 * Path
 
-** INSTRUCTIONS
+## INSTRUCTIONS
 
 Your survey should have 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
 
